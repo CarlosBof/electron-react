@@ -32,6 +32,8 @@ Projeto inicial para rodar o React dentro do Electron.
 
     `yarn run electron-pack`
 
+    o pacote de instalação é gerado na pasta **dist**, se quiser ver o fonte da distribuição web ele estará na pasta **build**
+
 ## Setup Inicial
 
 1. **Instale o Node [Node 8.12.0 or greater](https://nodejs.org)**
