@@ -20,13 +20,17 @@ Projeto inicial para rodar o React dentro do Electron.
 
 3. **Execute a instalação inicial**
 
-    `npm install`
+    `yarn install`
 
 4. **Execute o comando de desenvolvimento**
 
     `yarn run electron-dev`
 
     Este processo irá carregar o projeto no modo de desenvolvimento integrado com o React, realizando autoload da aplicação toda vez que seu projeto for modificado
+
+5. **Gerando o instalador para clientes**
+
+    `yarn run electron-pack`
 
 ## Setup Inicial
 
