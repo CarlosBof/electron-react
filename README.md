@@ -3,6 +3,8 @@
 
 Projeto inicial para rodar o React dentro do Electron.
 
+![Face do projeto](https://github.com/CarlosBof/electron-react/blob/master/electro-react.fw.png)
+
 # Get Started
 
 1. **Setup inicial**
